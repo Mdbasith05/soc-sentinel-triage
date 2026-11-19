@@ -1,0 +1,16 @@
+{
+  "alert_id": "ALRT-M365-2026-9921",
+  "timestamp": "2026-11-19T08:14:22Z",
+  "source_system": "Microsoft Defender for Office 365 / SIEM Ingestion",
+  "severity": "HIGH",
+  "alert_name": "Phishing Link with Secondary Stage Inbound Connection",
+  "recipient": "finance-ops@enterprise.ae",
+  "subject": "Urgent: Updated Banking Instructions & Wire Confirmation",
+  "raw_body_snippet": "Please review invoice payment instructions via link: hxxps://secure-banking-login-auth[.]com/verification/update.php. Inbound payload downloaded from 45.154.255.88 with MD5 checksum 44d88612fea8a8f36de82e1278abb02f and SHA256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.",
+  "extracted_iocs": [
+    "hxxps://secure-banking-login-auth[.]com/verification/update.php",
+    "45.154.255.88",
+    "44d88612fea8a8f36de82e1278abb02f",
+    "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  ]
+}
