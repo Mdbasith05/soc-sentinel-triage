@@ -6,6 +6,9 @@
 **Specialization:** MCA in Cyber Security and Forensics  
 **Portfolio:** [mdbasith05.github.io/mdbasith05](https://mdbasith05.github.io/mdbasith05)  
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://soc-sentinel-triage-mdrmh2dyeawzwjaycnjcdg.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://soc-sentinel-triage-mdrmh2dyeawzwjaycnjcdg.streamlit.app/)
+
 ---
 
 ## 🎯 The Real-World SOC Problem It Solves
